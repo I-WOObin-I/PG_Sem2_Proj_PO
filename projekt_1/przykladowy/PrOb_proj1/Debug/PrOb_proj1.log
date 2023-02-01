@@ -1,0 +1,47 @@
+﻿  Antylopa.cpp
+  BarszczSosnowskiego.cpp
+  Czlowiek.cpp
+  Guarana.cpp
+  Komentator.cpp
+  Konsola.cpp
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\konsola.cpp(19): warning C4838: konwersja z „const int” do „SHORT” wymaga konwersji zawężającej
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\konsola.cpp(30): warning C4838: konwersja z „const int” do „SHORT” wymaga konwersji zawężającej
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\konsola.cpp(45): warning C4838: konwersja z „const int” do „SHORT” wymaga konwersji zawężającej
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\konsola.cpp(52): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Lis.cpp
+  LogError3.cpp
+  main.cpp
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\main.cpp(19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Mlecz.cpp
+  Niesporaczek.cpp
+  Organizm.cpp
+  Owca.cpp
+  Point.cpp
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\point.cpp(126): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Roslina.cpp
+  RoslinaTrujaca.cpp
+  Swiat.cpp
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\swiat.cpp(219): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\swiat.cpp(233): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\swiat.cpp(298): warning C4101: "heigth": lokalna zmienna, do której nie istnieje odwołanie
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\swiat.cpp(357): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\swiat.cpp(370): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\swiat.cpp(515): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Trawa.cpp
+  WilczeJagody.cpp
+  Wilk.cpp
+  Generowanie kodu...
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\swiat.cpp(286): warning C4715: "Swiat::ZapiszSwiat”: niewszystkie ścieżki kodu zwracają wartość
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\point.cpp(103): warning C4715: "Point::GetRandomUnitVector”: niewszystkie ścieżki kodu zwracają wartość
+  Trwa kompilowanie...
+  ZarzadcaProgramu.cpp
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\zarzadcaprogramu.cpp(11): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\zarzadcaprogramu.cpp(32): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\zarzadcaprogramu.cpp(42): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\zarzadcaprogramu.cpp(46): warning C4552: „!=”: Wynik wyrażenia nie jest używany
+  Zolw.cpp
+  Zwierze.cpp
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\zwierze.cpp(59): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+d:\files\pg\prob\prob_proj1\prob_proj1\prob_proj1\zwierze.cpp(25): warning C4715: "Zwierze::WykonajRuch”: niewszystkie ścieżki kodu zwracają wartość
+  PrOb_proj1.vcxproj -> D:\Files\PG\PrOb\PrOb_proj1\PrOb_proj1\Debug\PrOb_proj1.exe

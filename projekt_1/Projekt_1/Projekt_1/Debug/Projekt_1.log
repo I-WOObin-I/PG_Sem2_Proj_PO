@@ -1,0 +1,26 @@
+﻿  Antylopa.cpp
+  BarszczSosnowskiego.cpp
+  Czlowiek.cpp
+  Guarana.cpp
+  KontrolerOrganizmow.cpp
+  Krolik.cpp
+  Lis.cpp
+  LogWalki.cpp
+  main.cpp
+  Mlecz.cpp
+  Organizm.cpp
+  Owca.cpp
+  Plansza.cpp
+  Roslina.cpp
+  Swiat.cpp
+E:\Studia\foldery_przedmiotowe\Sem_2\Prog_Obiektowe\projekty\projekt_1\Projekt_1\Projekt_1\Swiat.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Trawa.cpp
+  WilczJagoda.cpp
+  Wilk.cpp
+  Wsp.cpp
+  Zolw.cpp
+  Generating Code...
+  Compiling...
+  Zwierze.cpp
+  Generating Code...
+  Projekt_1.vcxproj -> E:\Studia\foldery_przedmiotowe\Sem_2\Prog_Obiektowe\projekty\projekt_1\Projekt_1\Debug\Projekt_1.exe
